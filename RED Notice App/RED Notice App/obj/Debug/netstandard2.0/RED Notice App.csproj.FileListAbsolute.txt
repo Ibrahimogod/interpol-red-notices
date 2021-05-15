@@ -1,0 +1,14 @@
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App\bin\Debug\netstandard2.0\RED Notice App.deps.json
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App\bin\Debug\netstandard2.0\RED Notice App.dll
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App\bin\Debug\netstandard2.0\ref\RED Notice App.dll
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App\bin\Debug\netstandard2.0\RED Notice App.pdb
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App\obj\Debug\netstandard2.0\RED Notice App.csprojAssemblyReference.cache
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App\obj\Debug\netstandard2.0\RED Notice App.AssemblyInfoInputs.cache
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App\obj\Debug\netstandard2.0\RED Notice App.AssemblyInfo.cs
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App\obj\Debug\netstandard2.0\RED Notice App.csproj.CoreCompileInputs.cache
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App\obj\Debug\netstandard2.0\RED Notice App.dll
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App\obj\Debug\netstandard2.0\ref\RED Notice App.dll
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App\obj\Debug\netstandard2.0\RED Notice App.pdb

@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:xct="http://xamarin.com/schemas/2020/toolkit"
+             xmlns:nVM="clr-namespace:RED_Notice_App.ViewModels"
+             x:Class="RED_Notice_App.MainPage">
+    <ContentPage.BindingContext>
+        <nVM:NoticeListViewModel/>
+    </ContentPage.BindingContext>
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style x:Key="tapItemStyle" TargetType="xct:TabViewItem">
+                <Setter Property="TextColor" Value="#00437a"/>
+                <Setter Property="TextColorSelected" Value="#e7581a"/>
+                <Setter Property="FontAttributes" Value="Bold"/>
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <StackLayout HorizontalOptions="FillAndExpand" >
+        <StackLayout HorizontalOptions="FillAndExpand" VerticalOptions="Center" HeightRequest="30" BackgroundColor="OrangeRed" IsVisible="{Binding IsNotConnected}">
+            <Label Text="Oops, looks like you don't have internet connection :("
+                   TextColor="White"
+                   HorizontalOptions="CenterAndExpand" VerticalOptions="Center"/>
+        </StackLayout>
+        <xct:TabView TabStripPlacement="Top">
+            <xct:TabViewItem Text="Wanted Persons" Style="{StaticResource tapItemStyle}">
+                <xct:TabViewItem.Content>
+                    <StackLayout>
+                        <ListView x:Name="List" ItemsSource="{Binding Notices}" HasUnevenRows="True" IsPullToRefreshEnabled="True"
+                                        IsRefreshing="{Binding IsRefreshing}" RefreshCommand="{Binding RefreshCommand}"
+                                  Margin="5,0,5,0">
+                            <ListView.ItemTemplate>
+                                <DataTemplate>
+                                    <ViewCell>
+                                        <Grid VerticalOptions="CenterAndExpand" Padding="0" HorizontalOptions="FillAndExpand">
+                                            <Grid.RowDefinitions>
+                                                <RowDefinition Height="auto" />
+                                            </Grid.RowDefinitions>
+                                            <Grid.ColumnDefinitions>
+                                                <ColumnDefinition Width="auto"/>
+                                                <ColumnDefinition Width="auto"/>
+                                            </Grid.ColumnDefinitions>
+                                            <StackLayout Grid.Row="0" Grid.Column="0" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" HeightRequest="150" WidthRequest="150" >
+                                                <Image Source="RedNoticeEnLR.jpg" HorizontalOptions="Start" VerticalOptions="Start" HeightRequest="20"/>
+                                                <Image Source="{Binding Links.Thumbnail.Href}" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"/>
+                                            </StackLayout>
+                                            <StackLayout Grid.Row="0" Grid.Column="1"  Orientation="Vertical" Padding="0,10,0,0">
+                                                <StackLayout Orientation="Horizontal">
+                                                    <Label Text="{Binding FullName}" FontFamily="Arial" TextColor="#00437a" FontSize="18"/>
+                                                </StackLayout>
+                                                <StackLayout Orientation="Vertical">
+                                                    <Label Text="{Binding Age, StringFormat='{0} Years old'}" FontFamily="Arial" TextColor="Black" FontSize="16"/>
+                                                    <Label Text="{Binding Country}" FontFamily="Arial" TextColor="Black" FontSize="16"/>
+                                                </StackLayout>
+                                            </StackLayout>
+                                        </Grid>
+                                    </ViewCell>
+                                </DataTemplate>
+                            </ListView.ItemTemplate>
+                        </ListView>
+                    </StackLayout>
+                </xct:TabViewItem.Content>
+            </xct:TabViewItem>
+
+
+            <xct:TabViewItem Text="Report" Style="{StaticResource tapItemStyle}">
+                <xct:TabViewItem.Content>
+                    <StackLayout>
+
+                    </StackLayout>
+                </xct:TabViewItem.Content>
+            </xct:TabViewItem>
+        </xct:TabView>
+    </StackLayout>
+</ContentPage>

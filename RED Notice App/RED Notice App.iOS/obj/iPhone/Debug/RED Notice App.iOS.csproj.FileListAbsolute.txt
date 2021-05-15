@@ -1,0 +1,60 @@
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\bin\iPhone\Debug\RED Notice App.iOS.exe
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\bin\iPhone\Debug\RED Notice App.iOS.pdb
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\bin\iPhone\Debug\Xamarin.CommunityToolkit.dll
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\bin\iPhone\Debug\RED Notice App.dll
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\bin\iPhone\Debug\RED Notice App.pdb
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\obj\iPhone\Debug\optimized\
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\obj\iPhone\Debug\RED Notice App.iOS.csprojAssemblyReference.cache
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\obj\iPhone\Debug\RED Notice App.iOS.csproj.CoreCompileInputs.cache
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\obj\iPhone\Debug\RED Notice App.iOS.csproj.CopyComplete
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\obj\iPhone\Debug\RED Notice App.iOS.exe
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.iOS\obj\iPhone\Debug\RED Notice App.iOS.pdb

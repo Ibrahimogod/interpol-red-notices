@@ -1,0 +1,3 @@
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.Android\obj\Debug\90\build.props
+D:\Users\Ibrahimogod\Downloads\Projects\Xamarin\RedNotice\RED Notice App\RED Notice App.Android\obj\Debug\90\adb.props
